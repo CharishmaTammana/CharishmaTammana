@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharishmaTammana
 - 👀 I’m interested in developing and hosting events
 - 🌱 I’m currently learning HTML, CSS,and backend services
-- 📫 You to reach me through Linkelden
+- 📫 You to reach me through Linkedln
 - 😄 Pronouns: she/her 
 
 <!---
